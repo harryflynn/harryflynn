@@ -1,5 +1,5 @@
 # Who Am I?
-Hey I'm Harry! I'm a 17 year old student from South London, England currently studying A* Computer Science, Buisness Studies and Sociology. I'm also a perfectionist! I'm never able to half do something, As I take huge pride in my work, and ensure it's the best I can produce!
+Hey I'm Harry! I'm a 17 year old system administrator from South London, England.
 
 # Experience:
 I've been programming and development for a few years now, and got a lot of skills and tricks under my belt, Ranging from Unity Game Development, AI Development, FiveM Development and much more!
